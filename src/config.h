@@ -21,7 +21,7 @@
 #include <time.h>
 
 // Server Listening Port
-#define SERVER_PORT 27312
+#define SERVER_PORT 16383
 
 // Listener Connection Backlog (aka. Max Concurrent Logins)
 #define SERVER_LISTEN_BACKLOG 128
