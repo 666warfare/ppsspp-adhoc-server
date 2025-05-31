@@ -1,7 +1,7 @@
 # PPSSPP Adhoc Server
 
 ```
-docker run --port 27312:27312 -it ghcr.io/666warfare/ppsspp-adhoc
+docker run --port 16380:16380 -it ghcr.io/666warfare/ppsspp-adhoc
 ```
 
 ## Contributors
